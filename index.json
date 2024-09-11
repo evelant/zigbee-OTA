@@ -1577,9 +1577,7 @@
         "fileVersion": 70,
         "fileSize": 256770,
         "manufacturerCode": 4417,
-        "manufacturerName": [
-            "_TZ3210_ngqk6jia"
-        ],
+        "manufacturerName": ["_TZ3210_ngqk6jia"],
         "imageType": 54179,
         "sha512": "0d2b6be4f0e8b0efdc2f581aee73055a4b3f05a26888e2c3fd0527f81a2f01af445001a91935f2c95ecbda9f83254ef80a9a51c18e592ac9ed00daedb686cbc8",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Telink/1663234985-oem_ztu_dimmer1_klt_OTA_1.0.6.bin",
@@ -1589,10 +1587,7 @@
         "fileVersion": 80,
         "fileSize": 310402,
         "manufacturerCode": 4417,
-        "manufacturerName": [
-            "_TZ3000_w0qqde0g",
-            "_TZ3000_dksbtrzs"
-        ],
+        "manufacturerName": ["_TZ3000_w0qqde0g", "_TZ3000_dksbtrzs"],
         "imageType": 54179,
         "sha512": "c541878e792620ad16cc70967e0458c03de21876ad8ed3c3b1eb90c8ecf7bcdfe6bfe711460a5888bb033def141e7dd22d78fe24c44a4e0b9707afb473a2d2a2",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Telink/1718263020-oem_zg_tl8258_plug_OTA_1.1.0.bin",
@@ -1602,9 +1597,7 @@
         "fileVersion": 78,
         "fileSize": 309954,
         "manufacturerCode": 4417,
-        "manufacturerName": [
-            "_TZ3000_cjrngdr3"
-        ],
+        "manufacturerName": ["_TZ3000_cjrngdr3"],
         "imageType": 54179,
         "sha512": "6a0861ee46e659b2b4167aa66b958064b57dbbf25c1dc0dcd848b455f012db5f6d0eb2f9099c3905c9cbfcb0ea75eacb12493a1d31e8fcbb896903a31d5cb646",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Telink/1686137326-oem_zg_tl8258_plug_OTA_1.0.14.bin",
@@ -2673,9 +2666,7 @@
         "fileVersion": 71,
         "fileSize": 222762,
         "manufacturerCode": 4098,
-        "manufacturerName": [
-            "_TZ3000_1dd0d5yi"
-        ],
+        "manufacturerName": ["_TZ3000_1dd0d5yi"],
         "imageType": 5634,
         "sha512": "41ebf9932d11708b81144232b2c3fccc7a58d76116be63785b978b91afb1180e32d8ba4f4c8f2f0960637f1662ec9ac28aa42b74e5ab57574000889671d2b8b9",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Tuya/1662693814-oem_mg21_zg_nh_win_cover_relay_OTA_1.0.7.bin",
@@ -3773,5 +3764,14 @@
         "modelId": "PRS3CH2_00.00.05.12TC",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/ClimaxTechnology/PRS3CH2_00.00.05.12TC.zigbee",
         "path": "images/ClimaxTechnology/PRS3CH2_00.00.05.12TC.zigbee"
+    },
+    {
+        "fileVersion": 386938501,
+        "fileSize": 285282,
+        "manufacturerCode": 4454,
+        "imageType": 1072,
+        "sha512": "a1821008181b2dca54ffb61a99f49fe8c8d8b39fd984d57423e34691de32666d9b2f8bbd3f7f6a929d67229c239b55fcfeb490f352cc0ccc0cb361408bb17b75",
+        "url": "https://github.com/evelant/zigbee-OTA/raw/master/images/Innr/ae270t.ota",
+        "path": "images/Innr/ae270t.ota"
     }
 ]
