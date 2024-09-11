@@ -3772,6 +3772,7 @@
         "imageType": 1072,
         "sha512": "a1821008181b2dca54ffb61a99f49fe8c8d8b39fd984d57423e34691de32666d9b2f8bbd3f7f6a929d67229c239b55fcfeb490f352cc0ccc0cb361408bb17b75",
         "url": "https://github.com/evelant/zigbee-OTA/raw/master/images/Innr/ae270t.ota",
-        "path": "images/Innr/ae270t.ota"
+        "path": "images/Innr/ae270t.ota",
+        "force": true
     }
 ]
